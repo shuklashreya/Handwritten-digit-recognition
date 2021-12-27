@@ -1,10 +1,4 @@
-# Digits-Recognizer.exe Instructions
 
-
-> Download the Digits-Recognizer.exe and move it to the same folder that you git cloned this project to. 
-> You should then be able to run the executable successfully.
-#### Google Drive Link
-> To Be Added Soon!
 
 
 
